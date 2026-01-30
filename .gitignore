@@ -1,0 +1,9 @@
+# Historial y datos de sesión de R
+.Rhistory
+.RData
+.Ruserdata
+
+# Archivos de Excel (específicos y por extensión)
+"Matriz técnica general Andes Norte REV.0.xlsx"
+"Matrix130".xlsx
+*.xlsx
